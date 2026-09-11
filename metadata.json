@@ -1,0 +1,6 @@
+{
+  "name": "LingBot 3D Live Map",
+  "description": "Aplicación de escaneo y grabación en vivo con cámara móvil y reconstrucción de mapas 3D interactivos en tiempo real con LingBot-Map.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
